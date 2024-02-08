@@ -16,7 +16,7 @@ import java.text.DecimalFormat;
 public class MainActivity extends AppCompatActivity {
     TextView txtViewResults;
 
-    //Added another line from local on Feb 8
+    //Added another line from local on Feb 8 project
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
